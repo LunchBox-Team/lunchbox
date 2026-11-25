@@ -3,7 +3,8 @@ const menu = [
   { name: "Chicken and rice", price: 450 },
   { name: "Beef stew", price: 400 },
   { name: "Vegetable curry", price: 350 },
-  { name: "Fruit salad", price: 150 }
+  { name: "Fruit salad", price: 150 },
+  { name: "Chips", price: 200 }
 ];
 
 const list = document.getElementById("menu");
