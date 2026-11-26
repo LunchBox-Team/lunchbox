@@ -4,7 +4,7 @@ const menu = [
   { name: "Beef stew", price: 420 },
   { name: "Vegetable curry", price: 350 },
   { name: "Fruit salad", price: 180 },
-  { name: "Chips", price: 200 },
+  { name: "Chips", price: 220 },
   { name: "Samosa", price: 100 }
 ];
 
