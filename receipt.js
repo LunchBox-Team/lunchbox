@@ -6,3 +6,7 @@ function receiptLines() {
 function receiptTotal() {
   return "Total: KES " + cartTotal();
 }
+
+function receiptDate() {
+  return new Date().toLocaleDateString("en-GB");
+}
