@@ -1,7 +1,7 @@
 // LunchBox menu: prices in shillings (KES)
 const menu = [
   { name: "Chicken and rice", price: 450 },
-  { name: "Beef stew", price: 460 },
+  { name: "Beef stew", price: 480 },
   { name: "Vegetable curry", price: 350 },
   { name: "Fruit salad", price: 200 },
   { name: "Chips", price: 250 },
