@@ -6,7 +6,8 @@ const menu = [
   { name: "Fruit salad", price: 200 },
   { name: "Chips", price: 250 },
   { name: "Samosa", price: 120 },
-  { name: "Pancakes", price: 250 }
+  { name: "Pancakes", price: 250 },
+  { name: "Fish and chips", price: 500 }
 ];
 
 const list = document.getElementById("menu");
