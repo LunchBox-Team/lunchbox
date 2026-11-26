@@ -14,3 +14,4 @@ for (const item of menu) {
   li.textContent = item.name + " - KES " + item.price;
   list.appendChild(li);
 }
+// Prices include VAT
