@@ -2,5 +2,5 @@
 const pastOrders = [];
 
 function addPastOrder(order) {
-  pastOrders.push(order);
+  pastOrders.unshift(order); // newest first
 }
