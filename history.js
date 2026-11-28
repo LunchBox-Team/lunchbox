@@ -4,3 +4,7 @@ const pastOrders = [];
 function addPastOrder(order) {
   pastOrders.unshift(order); // newest first
 }
+
+function orderCount() {
+  return pastOrders.length;
+}
