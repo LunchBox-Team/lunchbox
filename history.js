@@ -2,7 +2,7 @@
 const pastOrders = [];
 
 function addPastOrder(order) {
-  pastOrders.push(order); // newest first
+  pastOrders.unshift(order); // newest first
 }
 
 function orderCount() {
